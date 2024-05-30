@@ -9,8 +9,6 @@ C
 src/DemoDialog.form,7\f\7fd7f2e95296c2eb1c772ef9062b4467c37bbcd9
 C
 src/DemoDialog.java,d\a\da94a2e4db275cb8135e2b5e2c30ce471e591d25
-B
-src/XYSeriese.java,1\b\1b98105a9bc1f161bb4b3b0c7a2e94ee302a094a
 G
 src/ExperimentInfo.java,c\0\c0031fce9eb3064bb07acd73d24e73916e155b96
 :
@@ -22,8 +20,6 @@ P
  .idea/libraries/experimental.xml,3\1\31cb4db95f3ad4e795b094dcecd2d92a3145aefc
 Å
 Q.idea/sonarlint/securityhotspotstore/d/3/d3305109e3aab70c8625820f7363f2fb1b086380,d\6\d6057f8561a43d22ff06cbb96974d5e5caf251cd
-Å
-Q.idea/sonarlint/securityhotspotstore/1/b/1b98105a9bc1f161bb4b3b0c7a2e94ee302a094a,7\7\771a08787682495f2218538cf4d24be63fe2707b
 Å
 Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b\0\b08f1ab659fbdd998f45c0def99188f980cc899b
 ]

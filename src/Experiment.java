@@ -15,7 +15,7 @@ public class Experiment {
         ExperimentInfo ei = new ExperimentInfo(maxSize);
         for (int i = 0; i < maxSize; i++) {
             Integer[] arr = generate(i);
-            ei.setBubbleSortResult(i, SortInfo.bubleSortInfo(Arrays.copyOf(arr,arr.length)));
+            ei.setBubbleSortResult(i, SortInfo.bubleSortInfo(Arrays.copyOfRange(arr,0,arr.length)));
             ei.setOtherSortResult(i, SortInfo.shakerSortInfo(arr));
         }
 
